@@ -1,0 +1,51 @@
+11:35:20.527 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:35:20.533 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:35:20.847 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:35:21.281 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:35:21.483 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:35:22.170 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:35:22.172 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:35:22.403 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:35:22.903 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:35:23.314 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:35:27.059 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Unable to Log in
+11:35:29.239 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Unable to Log in
+11:37:36.139 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\regression.xml"
+11:37:36.383 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid_parallel\regression.xml
+
+11:37:38.774 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:37:39.463 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Getting in Random Details
+11:37:39.465 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling in Registration Info
+11:37:40.365 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Submit Button
+11:37:41.363 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:37:41.363 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:37:42.937 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:37:43.603 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:37:43.603 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:37:43.746 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:37:44.077 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:37:44.324 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Getting in Random Details
+11:37:44.324 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling in Registration Info
+11:37:44.503 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:37:45.083 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Submit Button
+11:37:46.431 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:37:46.431 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:37:50.121 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Unable to Log in
+11:37:50.314 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:37:50.315 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:37:50.654 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:37:51.074 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:37:51.335 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:37:56.982 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Unable to Log in
+11:39:37.228 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\regression.xml"
+11:39:37.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid_parallel\regression.xml
+
+11:39:40.019 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:39:40.725 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Getting in Random Details
+11:39:40.728 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling in Registration Info
+11:39:41.685 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Submit Button
+11:39:42.802 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:39:42.802 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:39:43.553 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****

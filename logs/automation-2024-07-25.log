@@ -1,0 +1,58 @@
+14:22:08.265 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+14:22:08.528 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+14:22:10.929 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+14:22:12.603 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+14:22:15.106 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+14:22:15.106 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+14:22:16.049 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+14:22:16.049 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+15:01:08.641 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+15:01:08.874 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+15:01:11.298 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+15:01:13.050 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+15:01:15.585 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+15:01:15.585 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+15:04:16.396 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest - Account not Created
+16:10:14.351 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:10:14.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:10:17.466 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:10:20.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:10:20.767 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:10:25.245 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:10:28.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:10:28.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:11:02.470 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:11:02.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:11:04.964 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:11:08.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:11:08.480 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:12:40.534 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:12:40.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:12:43.002 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:12:46.751 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:12:46.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:13:17.384 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:13:17.616 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:13:19.665 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:13:23.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:13:23.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:13:28.206 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:13:31.430 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:13:31.431 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:13:59.733 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:13:59.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:15:24.933 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"

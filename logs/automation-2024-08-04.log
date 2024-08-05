@@ -1,0 +1,66 @@
+16:15:25.185 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:16:58.176 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:16:58.442 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:18:22.494 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:18:22.738 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:21:30.484 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:21:30.725 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:23:44.331 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:23:44.575 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:28:23.974 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:28:24.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:33:28.819 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:33:29.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:36:52.721 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:36:53.001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:36:55.180 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:36:58.899 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:36:58.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:37:03.769 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:37:07.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+16:37:07.017 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:41:14.231 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:41:14.529 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:45:19.758 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml"
+16:45:20.100 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid\crossbrowser.xml
+
+16:45:22.435 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:45:27.682 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Case Failed
+16:45:27.682 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+16:45:32.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+16:45:32.996 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test Case Failed
+16:45:32.996 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+23:23:35.654 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:24:57.031 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:29:18.314 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:35:40.765 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:36:48.587 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:38:23.573 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:55:04.616 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:55:04.849 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml
+
+23:55:28.809 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"
+23:55:29.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml
+
+23:59:09.592 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\sanity.xml"

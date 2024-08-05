@@ -1,0 +1,45 @@
+11:39:44.863 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Getting in Random Details
+11:39:44.870 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling in Registration Info
+11:39:45.152 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:39:45.152 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:39:45.453 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:39:45.868 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Submit Button
+11:39:45.911 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:39:46.292 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:39:47.069 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:39:47.070 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:39:47.295 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:39:51.943 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:39:51.943 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:39:52.256 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:39:52.696 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:39:52.968 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:39:53.804 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:40:22.770 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Selenium Tool\Projects\opencart_grid_parallel\regression.xml"
+11:40:23.031 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Selenium Tool\Projects\opencart_grid_parallel\regression.xml
+
+11:40:30.164 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:40:31.335 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Getting in Random Details
+11:40:31.337 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Filling in Registration Info
+11:40:32.244 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Submit Button
+11:40:33.174 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:40:33.174 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:40:34.728 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Started.****
+11:40:36.399 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Getting in Random Details
+11:40:36.400 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Filling in Registration Info
+11:40:36.873 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicking Submit Button
+11:40:37.384 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:40:37.384 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:40:37.479 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:40:37.843 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Account Created.
+11:40:37.843 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ****Account Registration Test Case Ended.****
+11:40:37.898 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:40:38.230 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:40:39.132 [TestNG-tests-1] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
+11:40:44.524 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - ***Starting Login Validation Test***
+11:40:44.525 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked My Account
+11:40:44.852 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked Login
+11:40:45.417 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Entered Username and Password
+11:40:45.708 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Clicked LoginIN button
+11:40:46.697 [TestNG-tests-2] INFO  testCases.TC_002_LoginValidationTest - Account Successfully Logged in
